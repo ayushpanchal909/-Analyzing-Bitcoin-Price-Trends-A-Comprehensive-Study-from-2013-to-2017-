@@ -1,4 +1,4 @@
-## Bitcoin-Analysis
+## Analyzing Bitcoin Price Trends: A Comprehensive Study from 2013 to 2017
 
 In this project, I gathered a dataset related to Bitcoin from a CSV file. Once the data collection was complete, I carried out essential data cleaning steps, which involved managing duplicated entries and dealing with empty values. Following the cleaning process, I conducted data pre-processing and extracted valuable statistical insights from the dataset.
 
